@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property.</description>
+        <ih_action>false</ih_action>
+        <internal_name>get_property</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Property</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 14:55:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b3d691f931eb550244f72918bba10a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_8b3d691f931eb550244f72918bba10a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 14:55:18</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_variable_value action="DELETE" query="document_key=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_step_instance action="DELETE" query="action=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_action_input action="DELETE" query="model=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_action_output action="DELETE" query="model=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_8b3d691f931eb550244f72918bba10a1"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_8b3d691f931eb550244f72918bba10a1"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_8b3d691f931eb550244f72918bba10a1"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_8b3d691f931eb550244f72918bba10a1"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=8b3d691f931eb550244f72918bba10a1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</application>
+        <file_path/>
+        <instance_id>a7a897491b86b5d8699443f4bd4bcbae</instance_id>
+        <instance_name>dev192226</instance_name>
+        <name>sys_hub_action_type_definition_8b3d691f931eb550244f72918bba10a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>Get the value of an application property.</description><ih_action>false</ih_action><internal_name>get_property</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Get Property</name><natlang/><outputs/><pre_compiled>false</pre_compiled><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-09 14:55:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b3d691f931eb550244f72918bba10a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Get Property</sys_name><sys_overrides/><sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package><sys_policy/><sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope><sys_update_name>sys_hub_action_type_definition_8b3d691f931eb550244f72918bba10a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-09 14:55:18</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=8b3d691f931eb550244f72918bba10a1"/><sys_variable_value action="delete_multiple" query="document_key=8b3d691f931eb550244f72918bba10a1"/><sys_hub_step_instance action="delete_multiple" query="action=8b3d691f931eb550244f72918bba10a1"/><sys_hub_action_input action="delete_multiple" query="model=8b3d691f931eb550244f72918bba10a1"/><sys_hub_action_output action="delete_multiple" query="model=8b3d691f931eb550244f72918bba10a1"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=8b3d691f931eb550244f72918bba10a1"/><sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=8b3d691f931eb550244f72918bba10a1"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_8b3d691f931eb550244f72918bba10a1"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_8b3d691f931eb550244f72918bba10a1"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_8b3d691f931eb550244f72918bba10a1"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_8b3d691f931eb550244f72918bba10a1"/><sys_hub_action_plan action="delete_multiple" query="action_id=8b3d691f931eb550244f72918bba10a1"/></record_update>]]></payload>
+        <payload_hash>314399424</payload_hash>
+        <record_name>Get Property</record_name>
+        <reverted_from/>
+        <source>cc7c611f931eb550244f72918bba1053</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 14:55:19</sys_created_on>
+        <sys_id>073d691f931eb550244f72918bba10a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bb49498bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 14:55:19</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>4b3d691f201eb5505fd4fc209e3571a6</update_guid>
+        <update_guid_history>4b3d691f201eb5505fd4fc209e3571a6:314399424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:39:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>14da3d18b2eb4aa089bbeb0d0f8f8290</sys_id>
+        <sys_metadata>8b3d691f931eb550244f72918bba10a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_scope_delete display_value="">032126a84d134d8088ccf4ff4ce04000</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_8b3d691f931eb550244f72918bba10a1</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_8b3d691f931eb550244f72918bba10a1">073d691f931eb550244f72918bba10a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:39:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

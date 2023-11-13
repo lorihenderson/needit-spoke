@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>just a test</description>
+        <ih_action>false</ih_action>
+        <internal_name>test_action</internal_name>
+        <label_cache>[]</label_cache>
+        <master_snapshot>95dc661b9312f550244f72918bba10a2</master_snapshot>
+        <name>Test Action</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:30:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d4caa979312f550244f72918bba1065</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Test Action</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_7d4caa979312f550244f72918bba1065</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=7d4caa979312f550244f72918bba1065"/>
+    <sys_variable_value action="DELETE" query="document_key=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_step_instance action="DELETE" query="action=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_action_input action="DELETE" query="model=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_action_output action="DELETE" query="model=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=7d4caa979312f550244f72918bba1065^sys_idNOT INd5dc661b9312f550244f72918bba1098"/>
+    <sys_hub_action_status_metadata action="DELETE">
+        <action_type_id display_value="Test Action">7d4caa979312f550244f72918bba1065</action_type_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:10</sys_created_on>
+        <sys_id>d5dc661b9312f550244f72918bba1098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:10</sys_updated_on>
+    </sys_hub_action_status_metadata>
+    <sys_hub_status_condition action="DELETE" query="action_status_metadata_id=d5dc661b9312f550244f72918bba1098"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_7d4caa979312f550244f72918bba1065"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_7d4caa979312f550244f72918bba1065"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_7d4caa979312f550244f72918bba1065"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=7d4caa979312f550244f72918bba1065"/>
+    <sys_hub_action_type_snapshot action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>just a test</description>
+        <internal_name>test_action</internal_name>
+        <label_cache>[]</label_cache>
+        <master>true</master>
+        <name>Test Action</name>
+        <natlang/>
+        <outputs/>
+        <parent_action display_value="Test Action">7d4caa979312f550244f72918bba1065</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95dc661b9312f550244f72918bba10a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:10</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="DELETE" query="documentkey=95dc661b9312f550244f72918bba10a2"/>
+    <sys_variable_value action="DELETE" query="document_key=95dc661b9312f550244f72918bba10a2"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_hub_action_type_snapshot</document>
+        <document_key>95dc661b9312f550244f72918bba10a2</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:11</sys_created_on>
+        <sys_id>d5dc661b9312f550244f72918bba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Don't Treat as Error">19dc661b9312f550244f72918bba10b7</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2^id=95dc661b9312f550244f72918bba10a2"/>
+    <sys_hub_step_instance action="DELETE" query="action=95dc661b9312f550244f72918bba10a2"/>
+    <sys_hub_action_input action="DELETE" query="model=95dc661b9312f550244f72918bba10a2"/>
+    <sys_hub_action_output action="DELETE" query="model=95dc661b9312f550244f72918bba10a2^sys_idNOT IN11dc661b9312f550244f72918bba10b3,19dc661b9312f550244f72918bba10b7"/>
+    <sys_hub_action_output action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,co_type_name=FDACTIONSTATUS,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__action_status__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Action Status</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="Test Action">95dc661b9312f550244f72918bba10a2</model>
+        <model_id>95dc661b9312f550244f72918bba10a2</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:10</sys_created_on>
+        <sys_id>11dc661b9312f550244f72918bba10b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:10</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_input_action_instance action="DELETE" query="action_input=11dc661b9312f550244f72918bba10b3"/>
+    <sys_hub_input_scripts action="DELETE" query="instance=11dc661b9312f550244f72918bba10b3"/>
+    <sys_hub_action_output action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=boolean,visible_in_ui=false</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value>true</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__dont_treat_as_error__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="">boolean</internal_type>
+        <label>Don't Treat as Error</label>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <model display_value="Test Action">95dc661b9312f550244f72918bba10a2</model>
+        <model_id>95dc661b9312f550244f72918bba10a2</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:10</sys_created_on>
+        <sys_id>19dc661b9312f550244f72918bba10b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_input_action_instance action="DELETE" query="action_input=19dc661b9312f550244f72918bba10b7"/>
+    <sys_hub_input_scripts action="DELETE" query="instance=19dc661b9312f550244f72918bba10b7"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=95dc661b9312f550244f72918bba10a2"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=95dc661b9312f550244f72918bba10a2^sys_idNOT INd5dc661b9312f550244f72918bba10c0"/>
+    <sys_hub_action_status_metadata action="DELETE">
+        <action_type_id display_value="Test Action">95dc661b9312f550244f72918bba10a2</action_type_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:11</sys_created_on>
+        <sys_id>d5dc661b9312f550244f72918bba10c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+    </sys_hub_action_status_metadata>
+    <sys_hub_status_condition action="DELETE" query="action_status_metadata_id=d5dc661b9312f550244f72918bba10c0"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_95dc661b9312f550244f72918bba10a2"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_95dc661b9312f550244f72918bba10a2"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2^sys_idNOT IN5ddc661b9312f550244f72918bba10b6,9ddc661b9312f550244f72918bba10bb"/>
+    <sys_documentation action="DELETE">
+        <element>__action_status__</element>
+        <help/>
+        <hint/>
+        <label>Action Status</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:10</sys_created_on>
+        <sys_id>5ddc661b9312f550244f72918bba10b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:10</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="DELETE">
+        <element>__dont_treat_as_error__</element>
+        <help/>
+        <hint/>
+        <label>Don't Treat as Error</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:11</sys_created_on>
+        <sys_id>9ddc661b9312f550244f72918bba10bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2"/>
+    <sys_hub_action_type_definition action="DELETE">
+        <sys_id>7d4caa979312f550244f72918bba1065</sys_id>
+        <latest_snapshot>95dc661b9312f550244f72918bba10a2</latest_snapshot>
+        <compiler_build>glide-utah-12-21-2022__patch7a-09-28-2023_10-10-2023_1258.zip</compiler_build>
+    </sys_hub_action_type_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</application>
+        <file_path/>
+        <instance_id>a7a897491b86b5d8699443f4bd4bcbae</instance_id>
+        <instance_name>dev192226</instance_name>
+        <name>sys_hub_action_type_definition_7d4caa979312f550244f72918bba1065</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_action_type_definition"&gt;&lt;sys_hub_action_type_definition action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;action_status/&gt;&lt;action_template/&gt;&lt;active&gt;true&lt;/active&gt;&lt;annotation/&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;just a test&lt;/description&gt;&lt;ih_action&gt;false&lt;/ih_action&gt;&lt;internal_name&gt;test_action&lt;/internal_name&gt;&lt;label_cache&gt;[]&lt;/label_cache&gt;&lt;master_snapshot&gt;95dc661b9312f550244f72918bba10a2&lt;/master_snapshot&gt;&lt;name&gt;Test Action&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sys_hub_action_type_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:30:45&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7d4caa979312f550244f72918bba1065&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test Action&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s"&gt;807c611f931eb550244f72918bba1052&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_action_type_definition_7d4caa979312f550244f72918bba1065&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:11&lt;/sys_updated_on&gt;&lt;system_level&gt;false&lt;/system_level&gt;&lt;type/&gt;&lt;/sys_hub_action_type_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_step_instance action="delete_multiple" query="action=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_action_input action="delete_multiple" query="model=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_action_output action="delete_multiple" query="model=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=7d4caa979312f550244f72918bba1065^sys_idNOT INd5dc661b9312f550244f72918bba1098"/&gt;&lt;sys_hub_action_status_metadata action="INSERT_OR_UPDATE"&gt;&lt;action_type_id display_value="Test Action"&gt;7d4caa979312f550244f72918bba1065&lt;/action_type_id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:10&lt;/sys_created_on&gt;&lt;sys_id&gt;d5dc661b9312f550244f72918bba1098&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:10&lt;/sys_updated_on&gt;&lt;/sys_hub_action_status_metadata&gt;&lt;sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=d5dc661b9312f550244f72918bba1098"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_action_plan action="delete_multiple" query="action_id=7d4caa979312f550244f72918bba1065"/&gt;&lt;sys_hub_action_type_snapshot action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;action_status/&gt;&lt;action_template/&gt;&lt;annotation/&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;just a test&lt;/description&gt;&lt;internal_name&gt;test_action&lt;/internal_name&gt;&lt;label_cache&gt;[]&lt;/label_cache&gt;&lt;master&gt;true&lt;/master&gt;&lt;name&gt;Test Action&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;parent_action display_value="Test Action"&gt;7d4caa979312f550244f72918bba1065&lt;/parent_action&gt;&lt;sys_class_name&gt;sys_hub_action_type_snapshot&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:10&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;95dc661b9312f550244f72918bba10a2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:10&lt;/sys_updated_on&gt;&lt;system_level&gt;false&lt;/system_level&gt;&lt;type/&gt;&lt;/sys_hub_action_type_snapshot&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_variable_value action="INSERT_OR_UPDATE"&gt;&lt;document&gt;sys_hub_action_type_snapshot&lt;/document&gt;&lt;document_key&gt;95dc661b9312f550244f72918bba10a2&lt;/document_key&gt;&lt;order&gt;1&lt;/order&gt;&lt;sys_class_name&gt;sys_variable_value&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:11&lt;/sys_created_on&gt;&lt;sys_id&gt;d5dc661b9312f550244f72918bba10be&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:11&lt;/sys_updated_on&gt;&lt;value&gt;0&lt;/value&gt;&lt;variable display_value="Don't Treat as Error"&gt;19dc661b9312f550244f72918bba10b7&lt;/variable&gt;&lt;/sys_variable_value&gt;&lt;sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2^id=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_hub_step_instance action="delete_multiple" query="action=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_hub_action_input action="delete_multiple" query="model=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_hub_action_output action="delete_multiple" query="model=95dc661b9312f550244f72918bba10a2^sys_idNOT IN11dc661b9312f550244f72918bba10b3,19dc661b9312f550244f72918bba10b7"/&gt;&lt;sys_hub_action_output action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;action_error_output=true,co_type_name=FDACTIONSTATUS,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;__action_status__&lt;/element&gt;&lt;element_prototype/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_link/&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;label&gt;Action Status&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;65000&lt;/max_length&gt;&lt;model display_value="Test Action"&gt;95dc661b9312f550244f72918bba10a2&lt;/model&gt;&lt;model_id&gt;95dc661b9312f550244f72918bba10a2&lt;/model_id&gt;&lt;model_table&gt;sys_hub_action_type_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;0&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_action_output&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:10&lt;/sys_created_on&gt;&lt;sys_id&gt;11dc661b9312f550244f72918bba10b3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:10&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_action_output&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=11dc661b9312f550244f72918bba10b3"/&gt;&lt;sys_hub_input_scripts action="delete_multiple" query="instance=11dc661b9312f550244f72918bba10b3"/&gt;&lt;sys_hub_action_output action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;action_error_output=true,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=boolean,visible_in_ui=false&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;true&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;__dont_treat_as_error__&lt;/element&gt;&lt;element_prototype/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_link/&gt;&lt;internal_type display_value=""&gt;boolean&lt;/internal_type&gt;&lt;label&gt;Don't Treat as Error&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;model display_value="Test Action"&gt;95dc661b9312f550244f72918bba10a2&lt;/model&gt;&lt;model_id&gt;95dc661b9312f550244f72918bba10a2&lt;/model_id&gt;&lt;model_table&gt;sys_hub_action_type_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;1&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_action_output&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:10&lt;/sys_created_on&gt;&lt;sys_id&gt;19dc661b9312f550244f72918bba10b7&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:11&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_action_output&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=19dc661b9312f550244f72918bba10b7"/&gt;&lt;sys_hub_input_scripts action="delete_multiple" query="instance=19dc661b9312f550244f72918bba10b7"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=95dc661b9312f550244f72918bba10a2^sys_idNOT INd5dc661b9312f550244f72918bba10c0"/&gt;&lt;sys_hub_action_status_metadata action="INSERT_OR_UPDATE"&gt;&lt;action_type_id display_value="Test Action"&gt;95dc661b9312f550244f72918bba10a2&lt;/action_type_id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:11&lt;/sys_created_on&gt;&lt;sys_id&gt;d5dc661b9312f550244f72918bba10c0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:11&lt;/sys_updated_on&gt;&lt;/sys_hub_action_status_metadata&gt;&lt;sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=d5dc661b9312f550244f72918bba10c0"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2^sys_idNOT IN5ddc661b9312f550244f72918bba10b6,9ddc661b9312f550244f72918bba10bb"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;__action_status__&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Action Status&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:10&lt;/sys_created_on&gt;&lt;sys_id&gt;5ddc661b9312f550244f72918bba10b6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s"&gt;807c611f931eb550244f72918bba1052&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:10&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;__dont_treat_as_error__&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Don't Treat as Error&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-09 19:33:11&lt;/sys_created_on&gt;&lt;sys_id&gt;9ddc661b9312f550244f72918bba10bb&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s"&gt;807c611f931eb550244f72918bba1052&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt Spoke"&gt;807c611f931eb550244f72918bba1052&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-09 19:33:11&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_95dc661b9312f550244f72918bba10a2"/&gt;&lt;sys_hub_action_type_definition action="UPDATE"&gt;&lt;sys_id&gt;7d4caa979312f550244f72918bba1065&lt;/sys_id&gt;&lt;latest_snapshot&gt;95dc661b9312f550244f72918bba10a2&lt;/latest_snapshot&gt;&lt;compiler_build&gt;glide-utah-12-21-2022__patch7a-09-28-2023_10-10-2023_1258.zip&lt;/compiler_build&gt;&lt;/sys_hub_action_type_definition&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1449610173</payload_hash>
+        <record_name>Test Action</record_name>
+        <reverted_from/>
+        <source>cc7c611f931eb550244f72918bba1053</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:33:11</sys_created_on>
+        <sys_id>2ddc661b9312f550244f72918bba10d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bb592fe350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:33:11</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>25dc661b2412f55093b7858e973754d3</update_guid>
+        <update_guid_history>25dc661b2412f55093b7858e973754d3:-1449610173,19dc661b5b12f550814a00fedc01719f:1759894906,394caa979812f5506fa96d879c2b4569:1637183855</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-09 19:39:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>5772370f2e514280af86607d34694040</sys_id>
+        <sys_metadata>7d4caa979312f550244f72918bba1065</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Action</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_1132136_needit_s">807c611f931eb550244f72918bba1052</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">807c611f931eb550244f72918bba1052</sys_scope>
+        <sys_scope_delete display_value="">032126a84d134d8088ccf4ff4ce04000</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_7d4caa979312f550244f72918bba1065</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_7d4caa979312f550244f72918bba1065">2ddc661b9312f550244f72918bba10d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-09 19:39:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
